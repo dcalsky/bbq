@@ -1,0 +1,3 @@
+# Bujuan BBQ Repo
+Repo: https://github.com/dcalsky/bbq
+jsdelivr: https://cdn.jsdelivr.net/gh/dcalsky/bbq@master/...
